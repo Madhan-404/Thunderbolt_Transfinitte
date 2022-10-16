@@ -2,21 +2,21 @@
 
 #Contributors :-
 
-Sanjay R Krishna
-K V Madhan Raj
-Joshua Xavier
-Nabeel N
-Gokul R
-Tushanth
+Sanjay R Krishna,
+K V Madhan Raj,
+Joshua Xavier,
+Nabeel N,
+Gokul R,
+Tushanth.
 
 
 #Technologies used:- 
-Smartpy for Contracts in Smartpy IDE
-IPFS
-React
-Redux
-Taquito (Typescript)
-Temple wallet
+Smartpy for Contracts in Smartpy IDE,
+IPFS,
+React,
+Redux,
+Taquito (Typescript),
+Temple wallet.
 
 #Brief :-
 This Dapp creates a NFT mint for the image, stores them in IPFS using NFT.storage and you can find them in your Collectibles inside the wallet.
@@ -35,6 +35,7 @@ Address:- KT1RjETDWqyKseaZf5PF9L8kMGiv9nzVyaVo(Tokens) , KT1LhYWsaqUo9EVmbgpZnXg
 ![3](https://user-images.githubusercontent.com/83569612/196019937-bf4fdbf0-4fbb-419f-a750-ac317d4188bf.png)
 ![4](https://user-images.githubusercontent.com/83569612/196019938-6cc80bc8-861d-47ad-9348-6f3ca557d2af.png)
 ![5](https://user-images.githubusercontent.com/83569612/196020182-ff95441b-e777-4279-9981-61639815635e.png)
+![8](https://user-images.githubusercontent.com/83569612/196032167-584c4b04-9a4b-4ca8-9242-2829a34e87a4.png)
 ![6](https://user-images.githubusercontent.com/83569612/196020185-79c445ea-e35a-4fd1-8255-810d31cd22b2.png)
 ![7](https://user-images.githubusercontent.com/83569612/196020186-62fc9062-315d-40f3-b482-b708bbd269a1.png)
 
